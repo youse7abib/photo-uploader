@@ -264,10 +264,16 @@ section .details span {
     font-size: 16px;
 
 }
-h2{
+.git{
     display:flex;
     justify-content:center;
     align-items:center;
-    postion:fixed;
-    bottom:5px;
 }
+.git h2{
+    position:fixed
+    ;
+    bottom:10px;
+    left:550px;
+    
+}
+
